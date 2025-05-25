@@ -10,7 +10,7 @@ Interview Questions :
 7.	Palindromic linked list
 8.	Last stone weight
    
- 	Amazon(Medium) :
+ 	Amazon(Medium:
 1.	Partition list
 2.	Sum of subarray ranges
 3.	Car pooling
